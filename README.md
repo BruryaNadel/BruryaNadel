@@ -1,10 +1,9 @@
 <!-- ### Hi there 👋 -->
 
-```diff
--hi
-+ ### Hi, my name is **Brurya Nadel** 
-### ! I'm the developer that you need.
-```
+$${\color{darkgray} ### Hi, my name is\color{blue}**Brurya Nadel ** \color{gray}### I'm the developer that you need}$$
+### Hi, my name is **Brurya Nadel** 
+### I'm the developer that you need.
+
 
 Here are some ideas to get you started:
 
