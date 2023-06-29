@@ -5,8 +5,9 @@
 # $\mathbb{\color{darkgray}{I'm \ the \ developer \ that \ you \ need}}$
 
 
-### $\mathbb{\color{darkgray}{A \ Programer \ and \ data \ analyst \ whith \ experience, \ looking \ for \ a \ job \ which \ we \ both \ pronote \ each \ other, \ and \ which \ will \ find \ me \ thorough, \ autodidactic \ and \ analytical}}$
+### $\mathbb{\color{darkgray}{A \ Programer \ and \ data \ analyst \ whith \ experience, \ looking \ for \ a \ job \ which \ we \ both \ pronote \ each \ other,}}$
 
+### $\mathbb{\color{darkgray}{and \ which \ will \ find \ me \ thorough, \ autodidactic \ and \ analytical}}$
 
 $\mathbb{\color{darkgray}{I'm \ currently \ working \ on} \ \color{cyan}{Artis \ Multimedia}}$
 
@@ -14,7 +15,8 @@ $\mathbb{\color{darkgray}{I'm \ currently \ learning} \ \color{cyan}{Data \ Scie
 
 
 
-- 📫 Reach me on: 8462271@gmail.com
+- ![image](https://github.com/BruryaNadel/BruryaNadel/assets/76554841/84c27ba7-4e89-43dd-bdb8-0223d71b483c)
+ contact me on: 8462271@gmail.com
 
 <!--
 - 🔭 I’m currently working on Artis Multimedia
