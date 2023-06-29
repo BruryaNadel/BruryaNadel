@@ -16,8 +16,7 @@ $\mathbb{\color{darkgray}{I'm \ currently \ learning} \ \color{cyan}{Data \ Scie
 
 
 - ![image](https://github.com/BruryaNadel/BruryaNadel/assets/76554841/84c27ba7-4e89-43dd-bdb8-0223d71b483c)
-- ![image](https://www.shutterstock.com/image-vector/black-envelope-icon-flat-style-260nw-1660415155.jpg)
- contact me on: 8462271@gmail.com
+- ![image]([https://logowik.com/content/uploads/images/513_email.jpg) contact me on: 8462271@gmail.com
 
 <!--
 - 🔭 I’m currently working on Artis Multimedia
