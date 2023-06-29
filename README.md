@@ -1,10 +1,11 @@
 <!-- ### Hi there 👋 -->
 
-$\mathbb{\color{darkgray}{Hi, \ my \ name \ is} \ \color{cyan}{Brurya \ Nadel}}$
+### $\mathbb{\color{darkgray}{Hi, \ my \ name \ is} \ \color{cyan}{Brurya \ Nadel}}$
 
-$\mathbb{\color{darkgray}{I'm \ the \ developer \ that \ you \ need}}$$
-### Hi, my name is **Brurya Nadel** 
-### I'm the developer that you need.
+## $\mathbb{\color{darkgray}{I'm \ the \ developer \ that \ you \ need}}$
+
+<!-- ### Hi, my name is **Brurya Nadel** 
+### I'm the developer that you need. -->
 
 
 Here are some ideas to get you started:
