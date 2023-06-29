@@ -9,9 +9,9 @@
 ### $\mathbb{\color{darkgray}{looking \ for \ a \ job \ which \ we \ both \ pronote \ each \ other,}}$
 ### $\mathbb{\color{darkgray}{and \ which \ will \ find \ me \ thorough, \ autodidactic \ and \ analytical}}$
 
-$\mathbb{\color{darkgray}{I'm \ currently \ working \ on} \ \color{cyan}{Artis \ Multimedia}}$
+- $\mathbb{\color{darkgray}{I'm \ currently \ working \ on} \ \color{cyan}{Artis \ Multimedia}}$
 
-$\mathbb{\color{darkgray}{I'm \ currently \ learning} \ \color{cyan}{Data \ Science}}$
+- $\mathbb{\color{darkgray}{I'm \ currently \ learning} \ \color{cyan}{Data \ Science}}$
 
 
 
