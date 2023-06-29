@@ -1,6 +1,7 @@
 <!-- ### Hi there 👋 -->
 
-$${\color{darkgray}Hi, my name is\color{blue}**Brurya Nadel ** \color{gray}I'm the developer that you need}$$
+$\mathbb{\color{darkgray}{Hi, \ my \ name \ is\color} \ {cyan}{Brurya \ Nadel} \ color{gray}{I'm \ the \ developer \ that \ you \ need}}$
+$\mathbb{\color{darkgray}{I'm \ the \ developer \ that \ you \ need}}$
 ### Hi, my name is **Brurya Nadel** 
 ### I'm the developer that you need.
 
