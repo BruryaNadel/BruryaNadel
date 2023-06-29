@@ -5,7 +5,7 @@
 # $\mathbb{\color{darkgray}{I'm \ the \ developer \ that \ you \ need}}$
 
 
-### $\mathbb{\color{darkgray}{A \ Programer \ and \ data \ analyst \ whith \ experience, \ looking \ for \ a \ job \ which \ we \ both \ pronote \ each \ other,}}$
+### $\mathbb{\color{darkgray}{A \ Programer \ and \ data \ analyst \ whith \ experience,}}$
 ### $\mathbb{\color{darkgray}{looking \ for \ a \ job \ which \ we \ both \ pronote \ each \ other,}}$
 ### $\mathbb{\color{darkgray}{and \ which \ will \ find \ me \ thorough, \ autodidactic \ and \ analytical}}$
 
