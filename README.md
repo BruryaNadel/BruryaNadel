@@ -4,11 +4,15 @@
 
 # $\mathbb{\color{darkgray}{I'm \ the \ developer \ that \ you \ need}}$
 
-<!-- ### Hi, my name is **Brurya Nadel** 
-### I'm the developer that you need. -->
+
+### $\mathbb{\color{darkgray}{A \ Programer \ and \ data \ analyst \ whith \ experience, \ looking \ for \ a \ job \ which \ we \ both \ pronote \ each \ other, \ and \ which \ will \ find \ me \ thorough, \ autodidactic \ and \ analytical}}$
+
 
 $\mathbb{\color{darkgray}{I'm \ currently \ working \ on} \ \color{cyan}{Artis \ Multimedia}}$
+
 $\mathbb{\color{darkgray}{I'm \ currently \ learning} \ \color{cyan}{Data \ Science}}$
+
+
 
 - 📫 Reach me on: 8462271@gmail.com
 
